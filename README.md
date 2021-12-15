@@ -24,12 +24,12 @@ If you find this code useful in your research then please cite
 Image retrieval with text feedback has many potentials when applied in product retrieval for e-commerce platforms. Given an input image and text feedback, the system needs to retrieve images that not only look *visually similar* to the input image but also have *some modified details* mentioned in the text feedback. This is a tricky task as it requires a good understanding of image, text, and also their combination. 
 
 ![Problem Overview](images/intro.png)
-Examples of customers using image retrieval with text feedback in a fashion e-commerce application. Customers upload their clothes (red outline) and type text feedback describing changes they want (red sentence). The system gives suggestions about customers’ target clothes (green outline).
+Examples of customers using image retrieval with text feedback in a fashion e-commerce application.
 
 In this paper, we propose a novel framework called **Image-Text Modify Attention (ITMA)** and **a Transformer-based combining function** that performs *preservation* and *transformation* features of the input image based on the text feedback and *captures important* features of database images. By using multiple image features at **different Convolution Neural Network (CNN) depths**, the combining function can have *multi-level* visual information to achieve an *impressive* representation that satisfies for effective image retrieval.
 
 ![Method](images/newpipeline.png)
-An overview of the training pipeline. Given an input pair of an image x (red outline) and text feedback t (red sentence), a target image y (green outline), and images from the database (gray outline). Red arrows show directions for the input pair (x and t), green arrows show directions for database images including target y, and blue arrows show direction for both input pair and database images. We have 4 modules: (a) Image Encoder, (b) Text Encoder, (c) Combining Function, and (d) Loss Function between combined features and features from database.
+An overview of the training pipeline.
 
 We conduct quantitative and qualitative experiments on two datasets: **CSS** and **FashionIQ**. ITMA *outperforms existing approaches* on these datasets and can deal with various types of text feedback such as *object attributes* and *natural language*. We are also the *first ones* to discover the **exceptional behavior of the attention mechanism** in this task which ignores input image regions where text feedback wants to *remove* or *change*.
 
