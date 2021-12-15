@@ -1,4 +1,4 @@
-# Image Retrieval with Text Feedback based on Transformer Deep Model (ITMA)
+# Image Retrieval with Text Feedback based on Transformer Deep Model
 This is the code for the paper:
 
 **<a href="https://arxiv.org/abs/1812.07119">Image Retrieval with Text Feedback based on Transformer Deep Model
