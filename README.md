@@ -1,7 +1,7 @@
 # Image Retrieval with Text Feedback based on Transformer Deep Model
 This is the code for the paper:
 
-**<a href="https://arxiv.org/abs/1812.07119">Image Retrieval with Text Feedback based on Transformer Deep Model
+**<a href="https://drive.google.com/file/d/1DUIUwfjqGLrlfTeD1-8VDT2-pUSvI7ZH/view?usp=sharing">Image Retrieval with Text Feedback based on Transformer Deep Model
 </a>**
 <br>
 Truc Luong-Phuong Huynh, Ngoc Quoc Ly
