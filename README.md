@@ -54,14 +54,6 @@ We do not own any of the datasets used in our experiments here. Below we link to
 
 Download the dataset from [here](https://github.com/XiaoxiaoGuo/fashion-iq).
 
-### Birds-to-Words
-
-Download the dataset from [here](https://github.com/google-research-datasets/birds-to-words). Our data loader handles reinterpreting this dataset for text-guided image retrieval.
-
-### Spot-the-Diff
-
-Download the dataset from [here](https://github.com/harsh19/spot-the-diff). Our data loader handles reinterpreting this dataset for text-guided image retrieval. Note that the train/val/test splits are not designed for this task, and metrics may differ substantially between evaluations on val versus test although each is individually meaningful.
-
 ### CSS3D dataset
 
 Download the dataset from this [external website](https://drive.google.com/file/d/1wPqMw-HKmXUG2qTgYBiTNUnjz83hA2tY/view?usp=sharing).
