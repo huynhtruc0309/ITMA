@@ -6,7 +6,7 @@ This is the code for the paper:
 <br>
 Truc Luong-Phuong Huynh, Ngoc Quoc Ly
 <br>
-NAFOSTED Conference on Information and Computer Science (NICS) 2021.
+***NAFOSTED Conference on Information and Computer Science (NICS) 2021.***
 
 
 If you find this code useful in your research then please cite
