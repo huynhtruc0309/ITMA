@@ -24,7 +24,7 @@ If you find this code useful in your research then please cite
 Image retrieval with text feedback has many potentials when applied in product retrieval for e-commerce platforms. Given an input image and text feedback, the system needs to retrieve images that not only look *visually similar* to the input image but also have *some modified details* mentioned in the text feedback. This is a tricky task as it requires a good understanding of image, text, and also their combination. 
 
 ![Problem Overview](images/intro.png)
-
+In this paper
 
 In this paper, we propose a novel framework called **Image-Text Modify Attention (ITMA)** and **a Transformer-based combining function** that performs *preservation* and *transformation* features of the input image based on the text feedback and *captures important* features of database images. By using multiple image features at **different Convolution Neural Network (CNN) depths**, the combining function can have *multi-level* visual information to achieve an *impressive* representation that satisfies for effective image retrieval.
 
