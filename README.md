@@ -6,7 +6,7 @@ This is the code for the paper:
 <br>
 Truc Luong-Phuong Huynh, Ngoc Quoc Ly
 <br>
-NAFOSTED Conference on Information and Computer Science (NICS) 2021
+NAFOSTED Conference on Information and Computer Science (NICS) 2021.
 
 
 If you find this code useful in your research then please cite
@@ -20,7 +20,7 @@ If you find this code useful in your research then please cite
 }
 ```
 
-## Abstract
+## Introduction
 Image retrieval with text feedback has many poten- tials when applied in product retrieval for e-commerce platforms. Given an input image and text feedback, the system needs to retrieve images that not only look visually similar to the input image but also have some modified details mentioned in the text feedback. This is a tricky task as it requires a good understanding of image, text, and also their combination. 
 
 ![Problem Overview](images/intro.png)
