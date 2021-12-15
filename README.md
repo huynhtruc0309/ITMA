@@ -31,7 +31,7 @@ In this paper, we propose a novel framework called **Image-Text Modify Attention
 ![Method](images/newpipeline.png)
 
 
-We conduct quantitative and qualitative experiments on two datasets: **CSS** and **FashionIQ**. ITMA *outperforms existing approaches* on these datasets and can deal with various types of text feedback such as *object attributes* and *natural language*. We are also the *first ones* to discover the **exceptional behavior of the attention mechanism** in this task which ignores input image regions where text feedback wants to *remove* or *change*.
+We conduct quantitative and qualitative experiments on two datasets: **CSS** and **FashionIQ**. **ITMA** *outperforms existing approaches* on these datasets and can deal with various types of text feedback such as *object attributes* and *natural language*. We are also the *first ones* to discover the **exceptional behavior of the attention mechanism** in this task which ignores input image regions where text feedback wants to *remove* or *change*.
 
 
 ## Setup
