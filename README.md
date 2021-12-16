@@ -1,11 +1,12 @@
 # Image Retrieval with Text Feedback based on Transformer Deep Model
-This is the code for the paper:
+This is the full paper:
 
 **<a href="https://drive.google.com/file/d/1DUIUwfjqGLrlfTeD1-8VDT2-pUSvI7ZH/view?usp=sharing">Image Retrieval with Text Feedback based on Transformer Deep Model
 </a>**
 <br>
 Truc Luong-Phuong Huynh, Ngoc Quoc Ly
 <br>
+accepted and presented in this conference
 ***NAFOSTED Conference on Information and Computer Science (NICS) 2021.***
 
 
