@@ -6,8 +6,7 @@ This is the full paper:
 <br>
 Truc Luong-Phuong Huynh, Ngoc Quoc Ly
 <br>
-accepted and presented in this conference
-***NAFOSTED Conference on Information and Computer Science (NICS) 2021.***
+Accepted and presented in ***NAFOSTED Conference on Information and Computer Science (NICS) 2021.*** in December 2021
 
 
 If you find this code useful in your research then please cite
